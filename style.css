@@ -1,0 +1,22 @@
+.navbar-dark .navbar-brand{
+  color: red;
+}
+
+.jumbotron img{
+  height: 200px;
+}
+
+.jumbotron {
+  background-image: url(background-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.display-3 {
+  color: purple;
+}
+
+.lead {
+  color: purple;
+}
